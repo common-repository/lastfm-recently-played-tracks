@@ -1,0 +1,15 @@
+/*--- Widget structural styles ---*/
+	.lastfm_container {
+	clear: both;
+	padding: 3px;
+    overflow: hidden;
+	}
+	.lastfm_container span {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	}
+	.lastfm_container img {
+	float: left;
+	margin-right: 5px;
+	}
